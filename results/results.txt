@@ -1,0 +1,94 @@
+Bilder verarbeiten:  11%|████████████████▉                                                                                                                                          | 95/871 [00:52<04:46,  2.71it/s]Fehler bei Index 95: 403 Client Error: Forbidden for url: https://a0.muscache.com/pictures/c9155a77-4e66-4d73-9f61-e7a025d91e70.jpg
+Bilder verarbeiten: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 871/871 [06:46<00:00,  2.14it/s]
+Epoch 1/50, Train Loss: 24105.9484, Val Loss: 9029.5739, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 2/50, Train Loss: 24045.4398, Val Loss: 8975.4078, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 3/50, Train Loss: 23990.2972, Val Loss: 8892.6286, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 4/50, Train Loss: 23919.6330, Val Loss: 8812.4971, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 5/50, Train Loss: 23852.3723, Val Loss: 8750.5881, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 6/50, Train Loss: 23779.8197, Val Loss: 8681.9154, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 7/50, Train Loss: 23703.5020, Val Loss: 8603.9770, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 8/50, Train Loss: 23601.4273, Val Loss: 8525.9573, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 9/50, Train Loss: 23486.8058, Val Loss: 8425.3880, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 10/50, Train Loss: 23370.4786, Val Loss: 8313.5035, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 11/50, Train Loss: 23239.5224, Val Loss: 8212.1046, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 12/50, Train Loss: 23118.5194, Val Loss: 8085.6560, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 13/50, Train Loss: 22964.4480, Val Loss: 7990.1454, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 14/50, Train Loss: 22772.9967, Val Loss: 7856.6588, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 15/50, Train Loss: 22582.4755, Val Loss: 7706.3508, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 16/50, Train Loss: 22447.5475, Val Loss: 7613.6950, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 17/50, Train Loss: 22236.3123, Val Loss: 7511.4383, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 18/50, Train Loss: 22031.6878, Val Loss: 7384.8966, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 19/50, Train Loss: 21782.0585, Val Loss: 7214.5938, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 20/50, Train Loss: 21641.0741, Val Loss: 7180.2955, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 21/50, Train Loss: 21390.5208, Val Loss: 7061.1514, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 22/50, Train Loss: 21204.2836, Val Loss: 6929.7649, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 23/50, Train Loss: 20957.7741, Val Loss: 6763.2814, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 24/50, Train Loss: 20682.7198, Val Loss: 6715.5995, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 25/50, Train Loss: 20446.1544, Val Loss: 6746.2582, LR: 0.000100
+Epoch 26/50, Train Loss: 20184.2901, Val Loss: 6253.6793, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 27/50, Train Loss: 19900.2388, Val Loss: 6353.1553, LR: 0.000100
+Epoch 28/50, Train Loss: 19562.6186, Val Loss: 6443.4580, LR: 0.000100
+Epoch 29/50, Train Loss: 19504.8565, Val Loss: 5970.9441, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 30/50, Train Loss: 19126.8647, Val Loss: 6137.1949, LR: 0.000100
+Epoch 31/50, Train Loss: 18803.0244, Val Loss: 5535.0759, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 32/50, Train Loss: 18630.0827, Val Loss: 5884.5383, LR: 0.000100
+Epoch 33/50, Train Loss: 18207.3031, Val Loss: 5495.4684, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 34/50, Train Loss: 17781.8684, Val Loss: 5805.9968, LR: 0.000100
+Epoch 35/50, Train Loss: 17896.6802, Val Loss: 5663.6952, LR: 0.000100
+Epoch 36/50, Train Loss: 17479.0636, Val Loss: 5255.7087, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 37/50, Train Loss: 17150.0548, Val Loss: 5525.3423, LR: 0.000100
+Epoch 38/50, Train Loss: 16939.0264, Val Loss: 5014.2104, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 39/50, Train Loss: 16428.7786, Val Loss: 5911.0260, LR: 0.000100
+Epoch 40/50, Train Loss: 16527.6442, Val Loss: 4908.5857, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 41/50, Train Loss: 16034.3645, Val Loss: 4791.3174, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 42/50, Train Loss: 15900.4589, Val Loss: 5187.2787, LR: 0.000100
+Epoch 43/50, Train Loss: 15594.0913, Val Loss: 5163.3223, LR: 0.000100
+Epoch 44/50, Train Loss: 15154.1610, Val Loss: 4642.1093, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 45/50, Train Loss: 14999.5187, Val Loss: 4670.3407, LR: 0.000100
+Epoch 46/50, Train Loss: 14770.0262, Val Loss: 5124.2297, LR: 0.000100
+Epoch 47/50, Train Loss: 14410.9587, Val Loss: 4500.6162, LR: 0.000100
+Neues bestes Modell gespeichert
+Epoch 48/50, Train Loss: 14127.4636, Val Loss: 5250.6926, LR: 0.000100
+Epoch 49/50, Train Loss: 14532.6417, Val Loss: 4519.5375, LR: 0.000100
+Epoch 50/50, Train Loss: 13833.5403, Val Loss: 4724.2889, LR: 0.000100
+
+Train RMSE: 112.08 €
+Test RMSE: 67.09 €
+
+Beispielvorhersage:
+Tatsächlicher Preis: 90.0 €
+Vorhergesagter Preis: 61.73 € # vorher logarithmieren
+Modell erfolgreich gespeichert
